@@ -1,0 +1,8 @@
+prefix=/home/hriclass/yt542_ws/install
+
+Name: sphero_nav
+Description: Description of sphero_nav
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/hriclass/yt542_ws/install/lib 
+Requires: 

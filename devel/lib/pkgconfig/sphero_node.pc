@@ -1,0 +1,8 @@
+prefix=/home/hriclass/yt542_ws/devel
+
+Name: sphero_node
+Description: Description of sphero_node
+Version: 0.1.2
+Cflags: -I/home/hriclass/yt542_ws/devel/include
+Libs: -L/home/hriclass/yt542_ws/devel/lib 
+Requires: std_msgs dynamic_reconfigure message_runtime

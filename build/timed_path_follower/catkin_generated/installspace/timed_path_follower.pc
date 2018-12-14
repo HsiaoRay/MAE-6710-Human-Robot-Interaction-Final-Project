@@ -1,0 +1,8 @@
+prefix=/home/hriclass/yt542_ws/install
+
+Name: timed_path_follower
+Description: Description of timed_path_follower
+Version: 0.0.0
+Cflags: -I/home/hriclass/yt542_ws/install/include
+Libs: -L/home/hriclass/yt542_ws/install/lib -ltimed_path_follower
+Requires: dynamic_reconfigure

@@ -1,0 +1,8 @@
+prefix=/home/hriclass/yt542_ws/install
+
+Name: lattice_planner
+Description: Description of lattice_planner
+Version: 0.0.0
+Cflags: -I/home/hriclass/yt542_ws/install/include
+Libs: -L/home/hriclass/yt542_ws/install/lib -llattice_planner
+Requires: 

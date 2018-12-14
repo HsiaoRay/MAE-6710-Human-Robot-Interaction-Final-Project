@@ -1,0 +1,2 @@
+set(people_msgs_MESSAGE_FILES "/home/hriclass/yt542_ws/src/people_msgs/msg/People.msg;/home/hriclass/yt542_ws/src/people_msgs/msg/Person.msg;/home/hriclass/yt542_ws/src/people_msgs/msg/PersonStamped.msg;/home/hriclass/yt542_ws/src/people_msgs/msg/PositionMeasurementArray.msg;/home/hriclass/yt542_ws/src/people_msgs/msg/PositionMeasurement.msg;/home/hriclass/yt542_ws/src/people_msgs/msg/PeoplePrediction.msg")
+set(people_msgs_SERVICE_FILES "")

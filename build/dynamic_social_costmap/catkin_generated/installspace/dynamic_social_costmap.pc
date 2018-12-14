@@ -1,0 +1,8 @@
+prefix=/home/hriclass/yt542_ws/install
+
+Name: dynamic_social_costmap
+Description: Description of dynamic_social_costmap
+Version: 0.0.0
+Cflags: -I/home/hriclass/yt542_ws/install/include
+Libs: -L/home/hriclass/yt542_ws/install/lib -ldynamic_social_costmap
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/hriclass/yt542_ws/install
+
+Name: people_prediction
+Description: Description of people_prediction
+Version: 0.0.0
+Cflags: -I/home/hriclass/yt542_ws/install/include
+Libs: -L/home/hriclass/yt542_ws/install/lib 
+Requires: 

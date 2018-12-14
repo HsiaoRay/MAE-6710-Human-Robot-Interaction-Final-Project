@@ -1,0 +1,12 @@
+digraph G {
+"dummy" -> "base_link"[label="Broadcaster: /robot_state_publisher\nAverage rate: 200.211 Hz\nMost recent transform: 1543979954.676 ( -0.497 sec old)\nBuffer length: 4.985 sec\n"];
+"odom" -> "dummy"[label="Broadcaster: /state_publisher\nAverage rate: 10.263 Hz\nMost recent transform: 1543979954.144 ( 0.036 sec old)\nBuffer length: 4.872 sec\n"];
+"world" -> "vicon/Helmet_1/Helmet_1"[label="Broadcaster: /vicon\nAverage rate: 94.721 Hz\nMost recent transform: 1543979954.157 ( 0.023 sec old)\nBuffer length: 4.983 sec\n"];
+"world" -> "vicon/kuka/kuka"[label="Broadcaster: /vicon\nAverage rate: 94.721 Hz\nMost recent transform: 1543979954.157 ( 0.023 sec old)\nBuffer length: 4.983 sec\n"];
+"world" -> "map"[label="Broadcaster: /state_publisher\nAverage rate: 10.203 Hz\nMost recent transform: 1543979954.112 ( 0.068 sec old)\nBuffer length: 4.901 sec\n"];
+"map" -> "odom"[label="Broadcaster: /state_publisher\nAverage rate: 500000.000 Hz\nMost recent transform: 0.000 ( 1543979954.180 sec old)\nBuffer length: 0.000 sec\n"];
+edge [style=invis];
+ subgraph cluster_legend { style=bold; color=black; label ="view_frames Result";
+"Recorded at time: 1543979954.180"[ shape=plaintext ] ;
+ }->"world";
+}

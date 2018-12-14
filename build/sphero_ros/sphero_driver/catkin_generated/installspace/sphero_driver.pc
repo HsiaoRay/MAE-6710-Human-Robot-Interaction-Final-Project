@@ -1,0 +1,8 @@
+prefix=/home/hriclass/yt542_ws/install
+
+Name: sphero_driver
+Description: Description of sphero_driver
+Version: 0.1.2
+Cflags: 
+Libs: -L/home/hriclass/yt542_ws/install/lib 
+Requires: 

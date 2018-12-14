@@ -1,0 +1,2 @@
+dynamic_social_costmap:lattice_planner:people_detection:people_msgs:people_prediction:sphero_nav:sphero_ros/sphero_bringup:sphero_ros/sphero_description:sphero_ros/sphero_driver:sphero_ros/sphero_node:timed_path_follower:vicon_bridge
+-DCATKIN_DEVEL_PREFIX=/home/hriclass/yt542_ws/devel -DCMAKE_INSTALL_PREFIX=/home/hriclass/yt542_ws/install -G Unix Makefiles
