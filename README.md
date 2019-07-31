@@ -7,9 +7,9 @@ Here are the videos showing the result of this project:
  
 --------
 1.
-[</div>![Alt text](https://img.youtube.com/vi/jYUz3kGwczo/0.jpg)</div>](https://www.youtube.com/watch?v=jYUz3kGwczo)
+[<div align=center>![Alt text](https://img.youtube.com/vi/jYUz3kGwczo/0.jpg)</div>](https://www.youtube.com/watch?v=jYUz3kGwczo)
 
  
 ----------
 2.
-[</div>![Alt text](https://img.youtube.com/vi/Nue245JfY4A/0.jpg)</div.](https://www.youtube.com/watch?v=Nue245JfY4A)
+[<div align=center>![Alt text](https://img.youtube.com/vi/Nue245JfY4A/0.jpg)</div.](https://www.youtube.com/watch?v=Nue245JfY4A)
